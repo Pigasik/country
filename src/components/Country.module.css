@@ -1,0 +1,24 @@
+.header {
+    height: 60px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 2rem;
+    background-color: rgb(213, 207, 212);
+}
+
+.search{
+    padding: 12px;
+    border-radius: 20px;
+    width: 100%;
+    border: 0;
+    box-shadow: 4px 4px 10px rgb(0 0 0 / 6%);
+}
+
+.region{
+    width: 100%;
+    padding: 10px;
+    border-radius: 10px;
+    border: none;
+    box-shadow: 4px 4px 10px rgb(0 0 0 / 6%);
+}
